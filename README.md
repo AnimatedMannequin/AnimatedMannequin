@@ -1,7 +1,7 @@
 - 👋 Hello, I am @AnimatedMannequin, please just call me Woody!
 - 👀 I’m interested in taking some work off of everyones shoulders with my creations.
 - 🌱 I’m currently learning to build AppImages.
-- 📫 You may reach me on https://matrix.to/#/#overte:matrix.org
+- 📫 You may reach me on https://matrix.to/#/#overte:overte.org
 
 <!---
 AnimatedMannequin/AnimatedMannequin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
